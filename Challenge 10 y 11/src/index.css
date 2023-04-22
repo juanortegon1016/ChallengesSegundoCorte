@@ -1,0 +1,37 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  color: #FC2B4B;
+  background-color: #14141E;
+}
+
+h1 {
+  font-size: 70px;
+  line-height: 0.5;
+  text-decoration:none
+}
+
+body {
+  margin: 0;
+}
+
+.Nav{
+  background-color: #FC2B4B;
+  position: fixed;
+  width: 10%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.Links{
+  color: #ffffff;
+  text-decoration: underline;
+  font-size: 2vw;
+  text-decoration:none;
+}
+
+.Links:focus{
+  color: #14141E;
+}
+
